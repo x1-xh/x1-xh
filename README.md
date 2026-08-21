@@ -1,4 +1,4 @@
-### Hi! I'm x1-xh 👋
+### Hi! I'm Param 👋
 
 A student who likes coding and gaming!
 
