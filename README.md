@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`acm`](https://github.com/x1-xh/acm) - __ **(today)**
+- [`acm`](https://github.com/piyanshu007/acm) - __ **(today)**
 - [`iic-26`](https://github.com/x1-xh/iic-26) - __ **(1 week ago)**
 - [`kaelix`](https://github.com/clustralabs/kaelix) - __ **(2 weeks ago)**
 - [`imhost`](https://github.com/x1-xh/imhost) - __ **(3 weeks ago)**
@@ -23,23 +23,23 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**1**](https://github.com/x1-xh/acm/pull/3) on [`acm`](https://github.com/x1-xh/acm) **(today)**
 - [**feat: add postgres db layer and connect it to the backend**](https://github.com/clustralabs/kaelix/pull/3) on [`kaelix`](https://github.com/clustralabs/kaelix) **(2 weeks ago)**
 - [**feat: add docker pull_image helper**](https://github.com/clustralabs/kaelix/pull/1) on [`kaelix`](https://github.com/clustralabs/kaelix) **(4 weeks ago)**
+- [**Feat/wire backend frontend**](https://github.com/x1-xh/synergy-2026/pull/6) on [`synergy-2026`](https://github.com/x1-xh/synergy-2026) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript     1h 35m 20s   █████████████░░░░░░░░░░░░  51.03%
-Markdown       29m 14s      ████░░░░░░░░░░░░░░░░░░░░░  15.65%
-JSON           19m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  10.32%
-JavaScript     13m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
-Rust           13m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
+TypeScript     2h 5m 33s   █████████████░░░░░░░░░░░░  49.43%
+Markdown       29m 14s     ███░░░░░░░░░░░░░░░░░░░░░░  11.51%
+JSON           25m 34s     ███░░░░░░░░░░░░░░░░░░░░░░  10.07%
+unknown        24m 59s     ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
+JavaScript     13m 17s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.23%
 
 💼 Projects:
-sstool         46m 5s       ██████░░░░░░░░░░░░░░░░░░░  23.83%
-iic-26         41m 5s       ██████░░░░░░░░░░░░░░░░░░░  21.25%
-offline-mesh   37m 41s      █████░░░░░░░░░░░░░░░░░░░░  19.49%
-haxxxxx        34m 24s      █████░░░░░░░░░░░░░░░░░░░░  17.79%
-kaelix         29m 14s      ████░░░░░░░░░░░░░░░░░░░░░  15.12%
+offline-mesh   1h 33m 0s   ██████████░░░░░░░░░░░░░░░  37.40%
+sstool         46m 5s      █████░░░░░░░░░░░░░░░░░░░░  18.53%
+iic-26         41m 5s      █████░░░░░░░░░░░░░░░░░░░░  16.52%
+haxxxxx        34m 24s     ████░░░░░░░░░░░░░░░░░░░░░  13.83%
+kaelix         29m 14s     ███░░░░░░░░░░░░░░░░░░░░░░  11.76%
 ```
