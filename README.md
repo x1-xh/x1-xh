@@ -4,6 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`acm`](https://github.com/x1-xh/acm) - __ **(today)**
 - [`iic-26`](https://github.com/x1-xh/iic-26) - __ **(1 week ago)**
 - [`kaelix`](https://github.com/clustralabs/kaelix) - __ **(2 weeks ago)**
 - [`imhost`](https://github.com/x1-xh/imhost) - __ **(3 weeks ago)**
@@ -11,7 +12,6 @@ A student who likes coding and gaming!
 - [`site-v1`](https://github.com/x1-xh/site-v1) - _My personal site using AstroJS._ **(1 month ago)**
 - [`kilo-cc-plugin`](https://github.com/x1-xh/kilo-cc-plugin) - __ **(4 months ago)**
 - [`youtube-tools`](https://github.com/x1-xh/youtube-tools) - _awesome tools for youtube!_ **(5 months ago)**
-- [`dnd`](https://github.com/x1-xh/dnd) - _a dnd campaign manager made with rails!_ **(6 months ago)**
 
 #### 📦 My most popular repos
 
@@ -23,9 +23,9 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**1**](https://github.com/x1-xh/acm/pull/3) on [`acm`](https://github.com/x1-xh/acm) **(today)**
 - [**feat: add postgres db layer and connect it to the backend**](https://github.com/clustralabs/kaelix/pull/3) on [`kaelix`](https://github.com/clustralabs/kaelix) **(2 weeks ago)**
 - [**feat: add docker pull_image helper**](https://github.com/clustralabs/kaelix/pull/1) on [`kaelix`](https://github.com/clustralabs/kaelix) **(4 weeks ago)**
-- [**Feat/wire backend frontend**](https://github.com/x1-xh/synergy-2026/pull/6) on [`synergy-2026`](https://github.com/x1-xh/synergy-2026) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
