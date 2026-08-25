@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`snapline`](https://github.com/x1-xh/snapline) - __ **(today)**
 - [`offline-mesh`](https://github.com/x1-xh/offline-mesh) - __ **(3 days ago)**
-- [`acm`](https://github.com/piyanshu007/acm) - __ **(4 days ago)**
+- [`acm`](https://github.com/ParthBetai/acm) - __ **(4 days ago)**
 - [`iic-26`](https://github.com/x1-xh/iic-26) - __ **(2 weeks ago)**
 - [`kaelix`](https://github.com/clustralabs/kaelix) - __ **(3 weeks ago)**
 - [`imhost`](https://github.com/x1-xh/imhost) - __ **(1 month ago)**
 - [`synergy-2026`](https://github.com/x1-xh/synergy-2026) - __ **(1 month ago)**
 - [`site-v1`](https://github.com/x1-xh/site-v1) - _My personal site using AstroJS._ **(1 month ago)**
-- [`kilo-cc-plugin`](https://github.com/x1-xh/kilo-cc-plugin) - __ **(4 months ago)**
 
 #### 📦 My most popular repos
 
@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-YAML           10h 4m 22s   ██████████░░░░░░░░░░░░░░░  36.36%
-Lua            8h 38m 30s   ████████░░░░░░░░░░░░░░░░░  31.20%
-C++            3h 7m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  11.26%
-TypeScript     2h 21m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  8.54%
-unknown        1h 26m 28s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
+YAML               10h 4m 22s   █████████░░░░░░░░░░░░░░░░  33.52%
+Lua                8h 38m 30s   ████████░░░░░░░░░░░░░░░░░  28.76%
+unknown            4h 18m 42s   ████░░░░░░░░░░░░░░░░░░░░░  14.35%
+C++                3h 17m 6s    ███░░░░░░░░░░░░░░░░░░░░░░  10.93%
+TypeScript         1h 59m 44s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
 
 💼 Projects:
-kaelix         10h 6m 26s   ██████████░░░░░░░░░░░░░░░  38.22%
-nvchad         8h 38m 33s   █████████░░░░░░░░░░░░░░░░  32.68%
-offline-mesh   3h 17m 51s   ████░░░░░░░░░░░░░░░░░░░░░  12.47%
-cpp            3h 7m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  11.79%
-haxxxxx        34m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.17%
+kaelix             10h 4m 26s   █████████░░░░░░░░░░░░░░░░  35.18%
+nvchad             8h 38m 33s   ████████░░░░░░░░░░░░░░░░░  30.18%
+cpp                6h 1m 20s    ██████░░░░░░░░░░░░░░░░░░░  21.03%
+offline-mesh       3h 17m 51s   ███░░░░░░░░░░░░░░░░░░░░░░  11.52%
+<<LAST_PROJECT>>   17m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.01%
 ```
