@@ -15,7 +15,7 @@ A student who likes coding and gaming!
 
 #### 📦 My most popular repos
 
-- [`kopy`](https://github.com/x1-xh/kopy) - _🗝️ private encrypted pastebin service_ **(11⭐)**
+- [`kopy`](https://github.com/x1-xh/kopy) - _🗝️ private encrypted pastebin service_ **(13⭐)**
 - [`synergy-2026`](https://github.com/x1-xh/synergy-2026) - __ **(1⭐)**
 - [`ziggy`](https://github.com/x1-xh/ziggy) - _just another image host._ **(1⭐)**
 - [`ivy-wallet`](https://github.com/x1-xh/ivy-wallet) - _Ivy Wallet is an open-source money manager app for Android. You can install the app from releases or fork the code._ **(1⭐)**
@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-YAML               10h 4m 22s   ████████░░░░░░░░░░░░░░░░░  31.71%
-Lua                8h 38m 30s   ███████░░░░░░░░░░░░░░░░░░  27.20%
-unknown            5h 56m 44s   █████░░░░░░░░░░░░░░░░░░░░  18.72%
-C++                3h 17m 6s    ███░░░░░░░░░░░░░░░░░░░░░░  10.34%
-TypeScript         1h 59m 44s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
+YAML           10h 13m 15s   ████████░░░░░░░░░░░░░░░░░  31.57%
+Lua            8h 40m 30s    ███████░░░░░░░░░░░░░░░░░░  26.80%
+unknown        6h 4m 3s      █████░░░░░░░░░░░░░░░░░░░░  18.74%
+C++            3h 17m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  10.15%
+TypeScript     1h 59m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.16%
 
 💼 Projects:
-kaelix             10h 4m 26s   █████████░░░░░░░░░░░░░░░░  33.28%
-nvchad             8h 38m 33s   ████████░░░░░░░░░░░░░░░░░  28.55%
-cpp                7h 39m 24s   ███████░░░░░░░░░░░░░░░░░░  25.30%
-offline-mesh       3h 17m 51s   ███░░░░░░░░░░░░░░░░░░░░░░  10.89%
-<<LAST_PROJECT>>   17m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
+kaelix         10h 4m 26s    █████████░░░░░░░░░░░░░░░░  32.63%
+nvchad         8h 40m 33s    ████████░░░░░░░░░░░░░░░░░  28.10%
+cpp            7h 39m 24s    ███████░░░░░░░░░░░░░░░░░░  24.80%
+offline-mesh   3h 17m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  10.68%
+param          19m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.06%
 ```
