@@ -4,6 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`purebox`](https://github.com/x1-xh/purebox) - __ **(today)**
 - [`snapline`](https://github.com/x1-xh/snapline) - __ **(1 day ago)**
 - [`offline-mesh`](https://github.com/x1-xh/offline-mesh) - __ **(4 days ago)**
 - [`acm`](https://github.com/ParthBetai/acm) - __ **(5 days ago)**
@@ -11,7 +12,6 @@ A student who likes coding and gaming!
 - [`kaelix`](https://github.com/clustralabs/kaelix) - __ **(3 weeks ago)**
 - [`imhost`](https://github.com/x1-xh/imhost) - __ **(1 month ago)**
 - [`synergy-2026`](https://github.com/x1-xh/synergy-2026) - __ **(1 month ago)**
-- [`site-v1`](https://github.com/x1-xh/site-v1) - _My personal site using AstroJS._ **(1 month ago)**
 
 #### 📦 My most popular repos
 
@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-YAML           10h 25m 15s   ███████░░░░░░░░░░░░░░░░░░  25.23%
-Lua            8h 40m 30s    ██████░░░░░░░░░░░░░░░░░░░  21.00%
-Rust           8h 0m 29s     █████░░░░░░░░░░░░░░░░░░░░  19.39%
-unknown        6h 5m 11s     ████░░░░░░░░░░░░░░░░░░░░░  14.73%
-C++            3h 17m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.95%
+YAML           10h 25m 15s   ███████░░░░░░░░░░░░░░░░░░  24.55%
+Lua            8h 40m 30s    ██████░░░░░░░░░░░░░░░░░░░  20.43%
+Rust           8h 24m 30s    █████░░░░░░░░░░░░░░░░░░░░  19.81%
+unknown        6h 16m 40s    ████░░░░░░░░░░░░░░░░░░░░░  14.79%
+C++            3h 17m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.74%
 
 💼 Projects:
-kaelix         18h 10m 54s   ████████████░░░░░░░░░░░░░  46.62%
-nvchad         8h 40m 33s    ██████░░░░░░░░░░░░░░░░░░░  22.25%
-cpp            7h 39m 24s    █████░░░░░░░░░░░░░░░░░░░░  19.63%
-offline-mesh   3h 15m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  8.37%
-param          29m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.27%
+kaelix         18h 35m 0s    ████████████░░░░░░░░░░░░░  47.17%
+nvchad         8h 40m 33s    ██████░░░░░░░░░░░░░░░░░░░  22.02%
+cpp            7h 39m 24s    █████░░░░░░░░░░░░░░░░░░░░  19.43%
+offline-mesh   3h 15m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  8.29%
+param          29m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.26%
 ```
