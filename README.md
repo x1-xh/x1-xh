@@ -5,9 +5,9 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`purebox`](https://github.com/x1-xh/purebox) - _disposable emails for purelymail_ **(today)**
-- [`snapline`](https://github.com/x1-xh/snapline) - _a screenshot tool for zipline_ **(1 day ago)**
-- [`offline-mesh`](https://github.com/x1-xh/offline-mesh) - _a ble relay for sos_ **(4 days ago)**
-- [`acm`](https://github.com/ParthBetai/acm) - __ **(5 days ago)**
+- [`snapline`](https://github.com/x1-xh/snapline) - _a screenshot tool for zipline_ **(2 days ago)**
+- [`offline-mesh`](https://github.com/x1-xh/offline-mesh) - _a ble relay for sos_ **(5 days ago)**
+- [`acm`](https://github.com/ParthBetai/acm) - __ **(6 days ago)**
 - [`iic-26`](https://github.com/x1-xh/iic-26) - _project for iic 26'_ **(2 weeks ago)**
 - [`kaelix`](https://github.com/clustralabs/kaelix) - _self hostable alternative to vercel/render/fly.io etc._ **(3 weeks ago)**
 - [`synergy-2026`](https://github.com/x1-xh/synergy-2026) - _project for synergy 26'_ **(1 month ago)**
@@ -15,7 +15,7 @@ A student who likes coding and gaming!
 
 #### 📦 My most popular repos
 
-- [`kopy`](https://github.com/x1-xh/kopy) - _🗝️ private encrypted pastebin service_ **(13⭐)**
+- [`kopy`](https://github.com/x1-xh/kopy) - _🗝️ private encrypted pastebin service_ **(16⭐)**
 - [`synergy-2026`](https://github.com/x1-xh/synergy-2026) - _project for synergy 26'_ **(1⭐)**
 - [`ziggy`](https://github.com/x1-xh/ziggy) - _just another image host._ **(1⭐)**
 - [`ivy-wallet`](https://github.com/x1-xh/ivy-wallet) - _Ivy Wallet is an open-source money manager app for Android. You can install the app from releases or fork the code._ **(1⭐)**
