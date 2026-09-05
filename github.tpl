@@ -17,7 +17,9 @@ A student who likes coding and gaming!
 - [**{{.Title}}**]({{.URL}}) on [`{{.Repo.Name}}`]({{.Repo.URL}}) **({{humanize .CreatedAt}})**
 {{- end}}
 
+{{/*
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 ```
+*/}}
