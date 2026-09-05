@@ -4,6 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`site-v1`](https://github.com/x1-xh/site-v1) - _My personal site using AstroJS._ **(today)**
 - [`purebox`](https://github.com/x1-xh/purebox) - _disposable emails for purelymail_ **(1 week ago)**
 - [`snapline`](https://github.com/x1-xh/snapline) - _a screenshot tool for zipline_ **(1 week ago)**
 - [`offline-mesh`](https://github.com/x1-xh/offline-mesh) - _a ble relay for sos_ **(2 weeks ago)**
@@ -11,7 +12,6 @@ A student who likes coding and gaming!
 - [`iic-26`](https://github.com/x1-xh/iic-26) - _project for iic 26'_ **(3 weeks ago)**
 - [`kaelix`](https://github.com/clustralabs/kaelix) - _self hostable alternative to vercel/render/fly.io etc._ **(1 month ago)**
 - [`synergy-2026`](https://github.com/x1-xh/synergy-2026) - _project for synergy 26'_ **(1 month ago)**
-- [`site-v1`](https://github.com/x1-xh/site-v1) - _My personal site using AstroJS._ **(1 month ago)**
 
 #### 📦 My most popular repos
 
