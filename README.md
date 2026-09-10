@@ -3,6 +3,9 @@
 A student who likes coding and gaming!
 
 <!-- SHOWCASE_START -->
+#### 🌟 Showcase
+
+- [`kaelix`](https://github.com/clustralabs/kaelix) - _self hostable alternative to vercel/render/fly.io etc._ **(2⭐)**
 <!-- SHOWCASE_END -->
 
 #### 🏗️ What I've been working on
