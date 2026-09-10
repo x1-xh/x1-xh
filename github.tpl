@@ -2,6 +2,9 @@
 
 A student who likes coding and gaming!
 
+<!-- SHOWCASE_START -->
+<!-- SHOWCASE_END -->
+
 #### 🏗️ What I've been working on
 {{range recentContributions 8}}
 - [`{{.Repo.Name}}`]({{.Repo.URL}}) - _{{.Repo.Description}}_ **({{humanize .OccurredAt}})**

@@ -2,6 +2,9 @@
 
 A student who likes coding and gaming!
 
+<!-- SHOWCASE_START -->
+<!-- SHOWCASE_END -->
+
 #### 🏗️ What I've been working on
 
 - [`IIC26`](https://github.com/Boeing777-X9/IIC26) - _An explainable tele triage system for diabetic retinopathy. Built with nextjs fastapi and pytorch to give rural frontline workers offline resilient ai screening and grad cam biological evidence._ **(1 day ago)**

@@ -30,6 +30,11 @@ jobs:
           WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
         run: ${{ steps.install.outputs.install-path }} -write README.md github.tpl
 
+      - name: update showcase section
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_showcase.py
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update generated README
