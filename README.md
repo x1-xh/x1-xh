@@ -16,7 +16,7 @@ A student who likes coding and gaming!
 - [`site-v1`](https://github.com/x1-xh/site-v1) - _My personal site using AstroJS._ **(2 weeks ago)**
 - [`purebox`](https://github.com/x1-xh/purebox) - _disposable emails for purelymail_ **(3 weeks ago)**
 - [`snapline`](https://github.com/x1-xh/snapline) - _a screenshot tool for zipline_ **(3 weeks ago)**
-- [`offline-mesh`](https://github.com/x1-xh/offline-mesh) - _a ble relay for sos_ **(4 weeks ago)**
+- [`offline-mesh`](https://github.com/x1-xh/offline-mesh) - _a ble relay for sos_ **(1 month ago)**
 - [`acm`](https://github.com/ParthBetai/acm) - __ **(1 month ago)**
 - [`iic-26`](https://github.com/x1-xh/iic-26) - _project for iic 26'_ **(1 month ago)**
 
@@ -32,6 +32,6 @@ A student who likes coding and gaming!
 
 - [**Feat/postgres db layer**](https://github.com/clustralabs/kaelix/pull/4) on [`kaelix`](https://github.com/clustralabs/kaelix) **(1 week ago)**
 - [**feat: add postgres db layer and connect it to the backend**](https://github.com/clustralabs/kaelix/pull/3) on [`kaelix`](https://github.com/clustralabs/kaelix) **(1 month ago)**
-- [**feat: add docker pull_image helper**](https://github.com/clustralabs/kaelix/pull/1) on [`kaelix`](https://github.com/clustralabs/kaelix) **(1 month ago)**
+- [**feat: add docker pull_image helper**](https://github.com/clustralabs/kaelix/pull/1) on [`kaelix`](https://github.com/clustralabs/kaelix) **(2 months ago)**
 
 
