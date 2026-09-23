@@ -12,7 +12,7 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`kaelix`](https://github.com/clustralabs/kaelix) - _self hostable alternative to vercel/render/fly.io etc._ **(1 week ago)**
-- [`IIC26`](https://github.com/Boeing777-X9/IIC26) - _An explainable tele triage system for diabetic retinopathy. Built with nextjs fastapi and pytorch to give rural frontline workers offline resilient ai screening and grad cam biological evidence._ **(1 week ago)**
+- [`IIC26`](https://github.com/Boeing777-X9/IIC26) - _An explainable tele triage system for diabetic retinopathy. Built with nextjs fastapi and pytorch to give rural frontline workers offline resilient ai screening and grad cam biological evidence._ **(2 weeks ago)**
 - [`site-v1`](https://github.com/x1-xh/site-v1) - _My personal site using AstroJS._ **(2 weeks ago)**
 - [`purebox`](https://github.com/x1-xh/purebox) - _disposable emails for purelymail_ **(3 weeks ago)**
 - [`snapline`](https://github.com/x1-xh/snapline) - _a screenshot tool for zipline_ **(4 weeks ago)**
