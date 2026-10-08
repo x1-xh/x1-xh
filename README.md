@@ -23,10 +23,10 @@ A student who likes coding and gaming!
 #### 📦 My most popular repos
 
 - [`kopy`](https://github.com/x1-xh/kopy) - _🗝️ private encrypted pastebin service_ **(16⭐)**
+- [`cortex`](https://github.com/x1-xh/cortex) - __ **(1⭐)**
 - [`synergy-2026`](https://github.com/x1-xh/synergy-2026) - _project for synergy 26'_ **(1⭐)**
 - [`ziggy`](https://github.com/x1-xh/ziggy) - _just another image host._ **(1⭐)**
 - [`ivy-wallet`](https://github.com/x1-xh/ivy-wallet) - _Ivy Wallet is an open-source money manager app for Android. You can install the app from releases or fork the code._ **(1⭐)**
-- [`zipline-android`](https://github.com/x1-xh/zipline-android) - _helps you share files from your android device to your selfhosted zipline instance_ **(1⭐)**
 
 #### 🔨 My recent pull requests
 
