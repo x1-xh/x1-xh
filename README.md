@@ -11,7 +11,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`cortex`](https://github.com/x1-xh/cortex) - __ **(today)**
+- [`cortex`](https://github.com/x1-xh/cortex) - _open-source runtime for autonomous AI workers_ **(today)**
 - [`kaelix`](https://github.com/clustralabs/kaelix) - _self hostable alternative to vercel/render/fly.io etc._ **(3 weeks ago)**
 - [`IIC26`](https://github.com/Boeing777-X9/IIC26) - _An explainable tele triage system for diabetic retinopathy. Built with nextjs fastapi and pytorch to give rural frontline workers offline resilient ai screening and grad cam biological evidence._ **(4 weeks ago)**
 - [`site-v1`](https://github.com/x1-xh/site-v1) - _My personal site using AstroJS._ **(1 month ago)**
@@ -23,15 +23,15 @@ A student who likes coding and gaming!
 #### 📦 My most popular repos
 
 - [`kopy`](https://github.com/x1-xh/kopy) - _🗝️ private encrypted pastebin service_ **(16⭐)**
-- [`cortex`](https://github.com/x1-xh/cortex) - __ **(1⭐)**
+- [`cortex`](https://github.com/x1-xh/cortex) - _open-source runtime for autonomous AI workers_ **(1⭐)**
 - [`synergy-2026`](https://github.com/x1-xh/synergy-2026) - _project for synergy 26'_ **(1⭐)**
 - [`ziggy`](https://github.com/x1-xh/ziggy) - _just another image host._ **(1⭐)**
 - [`ivy-wallet`](https://github.com/x1-xh/ivy-wallet) - _Ivy Wallet is an open-source money manager app for Android. You can install the app from releases or fork the code._ **(1⭐)**
 
 #### 🔨 My recent pull requests
 
+- [**feat: interactive agent chat and model portals in TUI**](https://github.com/x1-xh/cortex/pull/23) on [`cortex`](https://github.com/x1-xh/cortex) **(today)**
 - [**feat(runtime): live model providers, real-time token tracking, and autonomous CLI harness**](https://github.com/x1-xh/cortex/pull/18) on [`cortex`](https://github.com/x1-xh/cortex) **(1 day ago)**
 - [**feat(tui): terminal control plane and interactive run inspector**](https://github.com/x1-xh/cortex/pull/16) on [`cortex`](https://github.com/x1-xh/cortex) **(1 day ago)**
-- [**Feat/postgres db layer**](https://github.com/clustralabs/kaelix/pull/4) on [`kaelix`](https://github.com/clustralabs/kaelix) **(3 weeks ago)**
 
 
