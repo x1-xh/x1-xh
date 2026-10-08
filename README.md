@@ -30,8 +30,8 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**feat(runtime): live model providers, real-time token tracking, and autonomous CLI harness**](https://github.com/x1-xh/cortex/pull/18) on [`cortex`](https://github.com/x1-xh/cortex) **(today)**
-- [**feat(tui): terminal control plane and interactive run inspector**](https://github.com/x1-xh/cortex/pull/16) on [`cortex`](https://github.com/x1-xh/cortex) **(today)**
+- [**feat(runtime): live model providers, real-time token tracking, and autonomous CLI harness**](https://github.com/x1-xh/cortex/pull/18) on [`cortex`](https://github.com/x1-xh/cortex) **(1 day ago)**
+- [**feat(tui): terminal control plane and interactive run inspector**](https://github.com/x1-xh/cortex/pull/16) on [`cortex`](https://github.com/x1-xh/cortex) **(1 day ago)**
 - [**Feat/postgres db layer**](https://github.com/clustralabs/kaelix/pull/4) on [`kaelix`](https://github.com/clustralabs/kaelix) **(3 weeks ago)**
 
 
