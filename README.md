@@ -11,6 +11,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`Catalyst-rlbot`](https://github.com/x1-xh/Catalyst-rlbot) - _IEEE my goat_ **(today)**
 - [`cortex`](https://github.com/x1-xh/cortex) - _open-source runtime for autonomous AI workers_ **(today)**
 - [`kaelix`](https://github.com/clustralabs/kaelix) - _self hostable alternative to vercel/render/fly.io etc._ **(4 weeks ago)**
 - [`IIC26`](https://github.com/Boeing777-X9/IIC26) - _An explainable tele triage system for diabetic retinopathy. Built with nextjs fastapi and pytorch to give rural frontline workers offline resilient ai screening and grad cam biological evidence._ **(1 month ago)**
@@ -18,7 +19,6 @@ A student who likes coding and gaming!
 - [`purebox`](https://github.com/x1-xh/purebox) - _disposable emails for purelymail_ **(1 month ago)**
 - [`snapline`](https://github.com/x1-xh/snapline) - _a screenshot tool for zipline_ **(1 month ago)**
 - [`offline-mesh`](https://github.com/x1-xh/offline-mesh) - _a ble relay for sos_ **(1 month ago)**
-- [`acm`](https://github.com/ParthBetai/acm) - __ **(1 month ago)**
 
 #### 📦 My most popular repos
 
