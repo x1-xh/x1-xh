@@ -12,8 +12,8 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`cortex`](https://github.com/x1-xh/cortex) - _open-source runtime for autonomous AI workers_ **(today)**
-- [`Catalyst-rlbot`](https://github.com/x1-xh/Catalyst-rlbot) - _IEEE my goat_ **(today)**
-- [`kaelix`](https://github.com/clustralabs/kaelix) - _self hostable alternative to vercel/render/fly.io etc._ **(4 weeks ago)**
+- [`Catalyst-rlbot`](https://github.com/x1-xh/Catalyst-rlbot) - _IEEE my goat_ **(1 day ago)**
+- [`kaelix`](https://github.com/clustralabs/kaelix) - _self hostable alternative to vercel/render/fly.io etc._ **(1 month ago)**
 - [`IIC26`](https://github.com/Boeing777-X9/IIC26) - _An explainable tele triage system for diabetic retinopathy. Built with nextjs fastapi and pytorch to give rural frontline workers offline resilient ai screening and grad cam biological evidence._ **(1 month ago)**
 - [`site-v1`](https://github.com/x1-xh/site-v1) - _My personal site using AstroJS._ **(1 month ago)**
 - [`purebox`](https://github.com/x1-xh/purebox) - _disposable emails for purelymail_ **(1 month ago)**
@@ -30,8 +30,8 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**feat: interactive agent chat and model portals in TUI**](https://github.com/x1-xh/cortex/pull/23) on [`cortex`](https://github.com/x1-xh/cortex) **(3 days ago)**
-- [**feat(runtime): live model providers, real-time token tracking, and autonomous CLI harness**](https://github.com/x1-xh/cortex/pull/18) on [`cortex`](https://github.com/x1-xh/cortex) **(4 days ago)**
-- [**feat(tui): terminal control plane and interactive run inspector**](https://github.com/x1-xh/cortex/pull/16) on [`cortex`](https://github.com/x1-xh/cortex) **(4 days ago)**
+- [**feat: interactive agent chat and model portals in TUI**](https://github.com/x1-xh/cortex/pull/23) on [`cortex`](https://github.com/x1-xh/cortex) **(4 days ago)**
+- [**feat(runtime): live model providers, real-time token tracking, and autonomous CLI harness**](https://github.com/x1-xh/cortex/pull/18) on [`cortex`](https://github.com/x1-xh/cortex) **(5 days ago)**
+- [**feat(tui): terminal control plane and interactive run inspector**](https://github.com/x1-xh/cortex/pull/16) on [`cortex`](https://github.com/x1-xh/cortex) **(5 days ago)**
 
 
