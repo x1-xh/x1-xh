@@ -6,6 +6,7 @@ A student who likes coding and gaming!
 #### 🌟 Showcase
 
 - [`kaelix`](https://github.com/clustralabs/kaelix) - _self hostable alternative to vercel/render/fly.io etc._ **(2⭐)**
+- [`cortex`](https://github.com/x1-xh/cortex) - _open-source runtime for autonomous AI workers_ **(1⭐)**
 - [`offline-mesh`](https://github.com/x1-xh/offline-mesh) - _a ble relay for sos_
 <!-- SHOWCASE_END -->
 
