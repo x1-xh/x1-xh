@@ -12,7 +12,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`cortex`](https://github.com/x1-xh/cortex) - _open-source runtime for autonomous AI workers_ **(6 days ago)**
+- [`cortex`](https://github.com/x1-xh/cortex) - _open-source runtime for autonomous AI workers_ **(1 week ago)**
 - [`Catalyst-rlbot`](https://github.com/x1-xh/Catalyst-rlbot) - _IEEE my goat_ **(1 week ago)**
 - [`kaelix`](https://github.com/clustralabs/kaelix) - _self hostable alternative to vercel/render/fly.io etc._ **(1 month ago)**
 - [`IIC26`](https://github.com/Boeing777-X9/IIC26) - _An explainable tele triage system for diabetic retinopathy. Built with nextjs fastapi and pytorch to give rural frontline workers offline resilient ai screening and grad cam biological evidence._ **(1 month ago)**
