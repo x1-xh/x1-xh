@@ -33,6 +33,6 @@ A student who likes coding and gaming!
 
 - [**feat: migrate database to Turso, remove Redis and Docker Compose**](https://github.com/clustralabs/kaelix/pull/5) on [`kaelix`](https://github.com/clustralabs/kaelix) **(1 week ago)**
 - [**feat: interactive agent chat and model portals in TUI**](https://github.com/x1-xh/cortex/pull/23) on [`cortex`](https://github.com/x1-xh/cortex) **(2 weeks ago)**
-- [**feat(runtime): live model providers, real-time token tracking, and autonomous CLI harness**](https://github.com/x1-xh/cortex/pull/18) on [`cortex`](https://github.com/x1-xh/cortex) **(2 weeks ago)**
+- [**feat(runtime): live model providers, real-time token tracking, and autonomous CLI harness**](https://github.com/x1-xh/cortex/pull/18) on [`cortex`](https://github.com/x1-xh/cortex) **(3 weeks ago)**
 
 
